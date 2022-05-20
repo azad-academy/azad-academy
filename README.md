@@ -25,5 +25,5 @@ This is a place for learning about topics in Machine Learning, Deep Learning, an
 ## Blog Posts
 
 
-![blog](azad-wolf.medium.com)
+<a href="https://azad-wolf.medium.com">Learning Articles in ML/DL</a>
 

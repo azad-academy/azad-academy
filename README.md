@@ -24,5 +24,5 @@
 ## Blog Posts
 
 
-#### ![blog]azad-wolf.medium.com  
+![blog]azad-wolf.medium.com  
 

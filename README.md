@@ -5,6 +5,7 @@
 
 <br/>  
 
+This is a place for learning about topics in Machine Learning, Deep Learning, and Computer Vision. 🏫🎓
 
 ## Technologies
 
@@ -24,5 +25,5 @@
 ## Blog Posts
 
 
-![blog]azad-wolf.medium.com  
+![blog](azad-wolf.medium.com)
 

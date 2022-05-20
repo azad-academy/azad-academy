@@ -7,7 +7,6 @@
 
 
 ## Technologies
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
@@ -18,34 +17,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Blog Posts
 
 
 #### ![blog]azad-wolf.medium.com  
 
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />

@@ -37,4 +37,3 @@ This is a place for learning about topics in Machine Learning, Deep Learning, an
 
 <a href="https://azadwolf.substack.com">Learning Articles in ML/DL (Substack)</a>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=azad-academy&repo=autoencoder-tutorial)](https://github.com/azad-academy/autoencoder-tutorial)

@@ -7,6 +7,8 @@
 
 This is a place for learning about topics in Machine Learning, Deep Learning, and Computer Vision. 🏫🎓
 
+<a href="https://www.amazon.com/dp/B0BT4YBZQC"><img src="https://m.media-amazon.com/images/I/31nkLLHcB6L.jpg" alt="Machine Learning Methods"/><a>
+
 ## Technologies
 
 <div align="center">  

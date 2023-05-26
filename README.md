@@ -38,5 +38,5 @@ This is a place for learning about topics in Machine Learning, Deep Learning, an
 
 <br/>
 
-<a href="https://azadwolf.substack.com">Learning Articles in ML/DL (Substack)</a>
+<a href="https://azadacademy.substack.com">Learning Articles in ML/DL (Substack)</a>
 
